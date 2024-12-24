@@ -1,0 +1,8 @@
+{
+    "routes": [
+      {
+        "src": "/nk-resume/(.*)",
+        "dest": "/nk-resume/$1"
+      }
+    ]
+  }
