@@ -1,9 +1,5 @@
-/**
- * @copyright 2024 Nomanahmedkhan
- * @license Apache-2.0
- */
-
 import { ButtonOutline, ButtonPrimary } from "./Button";
+
 const Hero = () => {
   return (
     <section className="pt-28 lg:pt-36 " id="home">
@@ -30,7 +26,12 @@ const Hero = () => {
             Building Scalable Modern Websites for the Future
           </h2>
           <div className="flex items-center gap-3">
-            <ButtonPrimary label="Download CV" icon="download" />
+            <ButtonPrimary
+              href="/src/nk-resume/nomanresume.pdf"
+              label="Download CV"
+              icon="download"
+              download="nomanresume.pdf"
+            />
             <ButtonOutline
               label="Scroll down"
               href="#about"
