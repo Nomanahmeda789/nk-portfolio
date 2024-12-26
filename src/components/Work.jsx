@@ -7,39 +7,39 @@ import ProjectCard from "./ProjectCard";
 const works = [
   {
     imgSrc: "/images/project-1.jpg",
-    title: "Full stack music app",
+    title: "Veed.io",
     tags: ["API", "MVC", "Development"],
-    projectLink: "https://musify-5al0.onrender.com/",
+    projectLink: "https://www.veed.io/",
   },
   {
     imgSrc: "/images/project-2.jpg",
-    title: "Free stock photo app",
+    title: "Janus Sadvisory ",
     tags: ["API", "SPA"],
-    projectLink: "https://pixstock-official.vercel.app/",
+    projectLink: "https://janusadvisorysolutions.com/",
   },
   {
     imgSrc: "/images/project-3.jpg",
-    title: "Recipe app",
+    title: "MyDailyChoice",
     tags: ["Development", "API"],
-    projectLink: "",
+    projectLink: "https://mydailychoice.com/",
   },
   {
     imgSrc: "/images/project-4.jpg",
-    title: "Real state website",
+    title: "NorthEastStar",
     tags: ["Web-design", "Development"],
-    projectLink: "https://github.com/codewithsadee-org/wealthome",
+    projectLink: "http://northestar.com/",
   },
   {
     imgSrc: "/images/project-5.jpg",
-    title: "eCommerce website",
+    title: "Oparko",
     tags: ["eCommerce", "Development"],
-    projectLink: "https://github.com/codewithsadee/anon-ecommerce-website",
+    projectLink: "https://oparko.com/",
   },
   {
     imgSrc: "/images/project-6.jpg",
-    title: "vCard Personal portfolio",
+    title: "NorthStar",
     tags: ["Web-design", "Development"],
-    projectLink: "https://github.com/codewithsadee/vcard-personal-portfolio",
+    projectLink: "http://northestar.com/",
   },
 ];
 const Work = () => {
