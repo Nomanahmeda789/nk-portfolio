@@ -7,15 +7,15 @@ import ProjectCard from "./ProjectCard";
 const works = [
   {
     imgSrc: "/images/project-1.jpg",
-    title: "Veed.IO",
+    title: "Veed.io",
     tags: ["API", "MVC", "Development"],
     projectLink: "https://www.veed.io/",
   },
   {
     imgSrc: "/images/project-2.jpg",
-    title: "Janus",
+    title: "Janus Sadvisory ",
     tags: ["API", "SPA"],
-    projectLink: "https://pixstock-official.vercel.app/",
+    projectLink: "https://janusadvisorysolutions.com/",
   },
   {
     imgSrc: "/images/project-3.jpg",
@@ -25,9 +25,9 @@ const works = [
   },
   {
     imgSrc: "/images/project-4.jpg",
-    title: "Cisotonix",
+    title: "NorthEastStar",
     tags: ["Web-design", "Development"],
-    projectLink: "https://cisotronix.com/",
+    projectLink: "http://northestar.com/",
   },
   {
     imgSrc: "/images/project-5.jpg",
@@ -37,7 +37,7 @@ const works = [
   },
   {
     imgSrc: "/images/project-6.jpg",
-    title: "North Star",
+    title: "NorthStar",
     tags: ["Web-design", "Development"],
     projectLink: "http://northestar.com/",
   },
