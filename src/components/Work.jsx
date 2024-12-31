@@ -8,38 +8,38 @@ const works = [
   {
     imgSrc: "/images/project-1.jpg",
     title: "Veed.io",
-    tags: ["API", "MVC", "Development"],
+    tags: ["API", "GD", "Development"],
     projectLink: "https://www.veed.io/",
   },
   {
     imgSrc: "/images/project-2.jpg",
-    title: "Janus Sadvisory ",
-    tags: ["API", "SPA"],
+    title: "Janus-sadvisory ",
+    tags: ["API", "DEV"],
     projectLink: "https://janusadvisorysolutions.com/",
   },
   {
     imgSrc: "/images/project-3.jpg",
-    title: "MyDailyChoice",
-    tags: ["Development", "API"],
+    title: "Mydailychoice",
+    tags: ["Dev", "API", "e-commerce"],
     projectLink: "https://mydailychoice.com/",
   },
   {
     imgSrc: "/images/project-4.jpg",
-    title: "NorthEastStar",
+    title: "North East Star",
     tags: ["Web-design", "Development"],
     projectLink: "http://northestar.com/",
   },
   {
     imgSrc: "/images/project-5.jpg",
     title: "Oparko",
-    tags: ["eCommerce", "Development"],
+    tags: ["Parking", "Development"],
     projectLink: "https://oparko.com/",
   },
   {
     imgSrc: "/images/project-6.jpg",
-    title: "NorthStar",
+    title: "Mlm-protec",
     tags: ["Web-design", "Development"],
-    projectLink: "http://northestar.com/",
+    projectLink: "http://mlmprotec.com/",
   },
 ];
 const Work = () => {
